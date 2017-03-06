@@ -2,7 +2,10 @@ BIP39 seed generator
 ====================
 
 This is a simple BIP39 seed generator for an ESP8266 running the MicroPython
-firmware. To use it, install Adafruit's ampy:
+firmware. You can read about the rationale on [my personal
+website](https://www.stavros.io/posts/perfectly-secure-bitcoin-wallet-generation/).
+
+To use it, install Adafruit's ampy:
 
 ~~~
 pip install adafruit-ampy
